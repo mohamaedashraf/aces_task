@@ -1,0 +1,25 @@
+body{ 
+background-image:url(../img/BG.jpg);
+background-repeat:no-repeat;
+background-size: cover;}
+
+footer{
+    
+    height: 60px;
+    background-color:#008F47;
+    padding: 10px 0;
+}
+.ico{
+    height: 40px;
+    padding: 0 5px;
+}
+
+.cen{
+    margin: 0 auto !important;
+    text-align: center;
+}
+.card-2{
+    margin-bottom: 40px !important;
+    border-radius: 0px;
+    border: 0px;
+}
